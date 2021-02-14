@@ -27,7 +27,7 @@ You can easy install switchaudio-osx via Homebrew https://formulae.brew.sh/formu
 brew install switchaudio-osx
 ```
 
-After installing switchaudio-osx you can switch between your configured audio devices with the keaword `audio`
+After installing switchaudio-osx you can switch between your configured audio devices with the keyword `audio`
 
 ![][3]
 
