@@ -12,14 +12,14 @@ Just enter the keyword `short` followed by the URL you want to shorten and the w
 ![][1]
 
 ## Strong Password
-Just enter the keyword `strongpw` (with or without parameter) and the workflow put a strong password in your clipboard. Without parameter it will create a completly random password, with a password the workflow create the same password each time you use the same parameter. So if you need a password for ebay, you don't habe to remember that passwort just typ `strongpw ebay` and you have it in your clipboard.
+Just enter the keyword `strongpw` (with or without parameter) and the workflow put a strong password in your clipboard. Without parameter it will create a random password, with a parameter the workflow create the same password each time you use the same parameter. So if you need a password for ebay, you don't have to remember that passwort just typ `strongpw ebay` and you have it in your clipboard.
 
-You should create a personal secret in the script first ;-)
+Keep in mind that you must change the secret in the script first ;-)
 
 ![][2]
 
 ## SwitchAudioDevice
-During Home-Office times I often have to switch between Mac Speaker, headphones or external Bluetooth speaker. To make it eas I create a workflow for that. You need switchaudio-osx for this workflow which is available here - https://github.com/deweller/switchaudio-osx 
+During Home-Office times I often have to switch between Mac Speaker, headphones or external Bluetooth speaker. To make it easy I create a workflow for that. You need switchaudio-osx for this workflow which is available here - https://github.com/deweller/switchaudio-osx 
 
 You can easy install switchaudio-osx via Homebrew https://formulae.brew.sh/formula/switchaudio-osx 
 
@@ -27,7 +27,7 @@ You can easy install switchaudio-osx via Homebrew https://formulae.brew.sh/formu
 brew install switchaudio-osx
 ```
 
-After installing switchaudio-osx you can switch between your configured audio devices with the keyword `audio`
+After installing switchaudio-osx you can switch between your configured audio devices by using the keyword `audio`
 
 ![][3]
 
