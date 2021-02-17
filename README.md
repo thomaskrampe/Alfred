@@ -6,7 +6,7 @@ Link hotkeys, keywords and actions together to create your own workflows; There'
 More informations here: https://www.alfredapp.com 
 
 # Contents of this reporitory
-## TinyURL
+## Shorten URL
 Just enter the keyword `short` followed by the URL you want to shorten and the workflow put the shortened URL in your clipboard.
 
 ![][1]
