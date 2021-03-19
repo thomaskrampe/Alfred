@@ -41,7 +41,7 @@ After installing switchaudio-osx you can switch between your configured audio de
 ![][3]
 
 # Bonus
-Some people won't pay for an Alfred license, (which is not waisted money believe me) so I add the macOS workflows for Shorten URL and MD Link as well. Keep in mind these workflows are not signed and you can use them as provided. On the other hand, you can create your own worklows with Automator. I provide Screenshots for th Automator stuff in the subfolder as well.
+Some people won't pay for an Alfred license, (which is not waisted money believe me) so I add the macOS workflows for Shorten URL and MD Link as well. Keep in mind these workflows are not signed and you can use them as provided. On the other hand, you can create your own worklows with Automator. I provide Screenshots for the Automator stuff in the subfolder as well.
 
 ![][6]
  
