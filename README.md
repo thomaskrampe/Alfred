@@ -7,9 +7,12 @@ More informations here: https://www.alfredapp.com
 
 # Contents of this reporitory
 ## Shorten URL
-Just enter the keyword `short` followed by the URL you want to shorten and the workflow put the shortened URL in your clipboard.
+Just enter the keyword `short` followed by the URL you want to shorten and the workflow put the shortened URL to your clipboard.
 
 ![][1]
+
+## MD Link
+Just enter the keyword `md` followed by the URL you want to shorten and the workflow put the shortened URL and the title of the webpage as markdown link to your clipboard. Pretty much the same like the Shorten URL workflow.
 
 ## Strong Password
 Just enter the keyword `strongpw` (with or without parameter) and the workflow put a strong password in your clipboard. Without parameter it will create a random password, with a parameter the workflow create the same password each time you use the same parameter. So if you need a password for ebay, you don't have to remember that passwort just typ `strongpw ebay` and you have it in your clipboard.
