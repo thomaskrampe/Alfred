@@ -8,7 +8,7 @@ This workflow create a MD link from a given long URL with the title of the reque
 Just for your information the output is generated as:
   * Copied to clipboard
   * Displayed as a notification
-  * Sved to a md_history.csv (maybe for later use)
+  * Saved to a md_history.csv (maybe for later use)
 
 Just disable/delete what you don't need.
 
